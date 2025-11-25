@@ -4,6 +4,12 @@ body {
   font-family: Arial, sans-serif;
 }
 
+#info {
+  font-size: 1.2rem;
+  margin-top: -10px;
+  color: #444;
+}
+
 .btn {
   height: 180px;
   width: 180px;
